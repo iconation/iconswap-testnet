@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/iconswap-testnet/static/css/main.782e864b.chunk.css",
-    "main.js": "/iconswap-testnet/static/js/main.9c534b53.chunk.js",
-    "main.js.map": "/iconswap-testnet/static/js/main.9c534b53.chunk.js.map",
+    "main.js": "/iconswap-testnet/static/js/main.75fe00b2.chunk.js",
+    "main.js.map": "/iconswap-testnet/static/js/main.75fe00b2.chunk.js.map",
     "runtime-main.js": "/iconswap-testnet/static/js/runtime-main.448028cb.js",
     "runtime-main.js.map": "/iconswap-testnet/static/js/runtime-main.448028cb.js.map",
     "static/js/2.eef84456.chunk.js": "/iconswap-testnet/static/js/2.eef84456.chunk.js",
     "static/js/2.eef84456.chunk.js.map": "/iconswap-testnet/static/js/2.eef84456.chunk.js.map",
     "index.html": "/iconswap-testnet/index.html",
-    "precache-manifest.e56ab825a5622feaaf43ce654a616369.js": "/iconswap-testnet/precache-manifest.e56ab825a5622feaaf43ce654a616369.js",
+    "precache-manifest.1a46ca8839dca1f619b7d69be447f815.js": "/iconswap-testnet/precache-manifest.1a46ca8839dca1f619b7d69be447f815.js",
     "service-worker.js": "/iconswap-testnet/service-worker.js",
     "static/css/main.782e864b.chunk.css.map": "/iconswap-testnet/static/css/main.782e864b.chunk.css.map",
     "static/js/2.eef84456.chunk.js.LICENSE.txt": "/iconswap-testnet/static/js/2.eef84456.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.448028cb.js",
     "static/js/2.eef84456.chunk.js",
     "static/css/main.782e864b.chunk.css",
-    "static/js/main.9c534b53.chunk.js"
+    "static/js/main.75fe00b2.chunk.js"
   ]
 }
